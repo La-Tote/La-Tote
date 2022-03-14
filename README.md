@@ -1,4 +1,6 @@
-### Hello 👋 My name is Thomas Lecomte, I'm a french developper, currently studying web dev with O'Clock school and working for France Télévisions group. 
+### Hello 👋 I'm Thomas
+
+## I'm a french developper, currently studying web dev with O'Clock school and working for France Télévisions group. 
 
 <!--
 **La-Tote/La-Tote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
