@@ -1,6 +1,6 @@
 ## Hello 👋 I'm Thomas
 
-### I'm a french developper, currently studying web dev with O'Clock school and working for France Télévisions group. 
+### I'm currently working as datajournalist and web developer for Le Parisien french newspaper. 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
